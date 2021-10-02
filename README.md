@@ -1,8 +1,6 @@
-## Repo highlights
+### Please scroll down to the pinned repos for highlights
 
-Please scroll down for the pinned repos to see those.
-
-### Some less important repos that are still useful - or at least might be (this may or may not be so that I can more easily find them too 😅):
+Some less important repos that are still useful - or at least might be (this may or may not be so that I can more easily find them too 😅):
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=node-native-dialog)](https://github.com/s-h-a-d-o-w/node-native-dialog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=NotepadPlusPlus-Remixed-Theme)](https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme)
