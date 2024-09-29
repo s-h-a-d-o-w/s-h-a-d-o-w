@@ -6,7 +6,6 @@ Some less important repos that are still useful - or at least might be (this may
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=NotepadPlusPlus-Remixed-Theme)](https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=regtobin)](https://github.com/s-h-a-d-o-w/regtobin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=simple-async-memo)](https://github.com/s-h-a-d-o-w/simple-async-memo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=wasm-webp)](https://github.com/s-h-a-d-o-w/wasm-webp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=napi-async-example)](https://github.com/s-h-a-d-o-w/napi-async-example)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=cf-geo-steering-helper)](https://github.com/s-h-a-d-o-w/cf-geo-steering-helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&repo=talon-eyetracking)](https://github.com/s-h-a-d-o-w/talon-eyetracking)
