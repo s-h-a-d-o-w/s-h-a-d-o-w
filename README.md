@@ -2,7 +2,7 @@ Hi, I'm Andy! 👋
 
 [My blog](https://blog.letit.run/)
 
-Some websites that I created and some people find useful: [Android Premium Games](https://androidpremium.games/), [fructosedb](https://fructosedb.org/)
+Some websites that I created some years ago and some people find useful: [Android Premium Games](https://androidpremium.games/), [fructosedb](https://fructosedb.org/)
 
 ### Please scroll down to the pinned repos for highlights
 
