@@ -1,8 +1,8 @@
 Hi, I'm Andy! 👋
 
-[My blog](https://blog.letit.run/)
+### [My blog](https://blog.letit.run/)
 
-Some websites that I created some years ago and some people find useful: [Android Premium Games](https://androidpremium.games/), [fructosedb](https://fructosedb.org/)
+... and some websites that I created a bunch of years ago that some people find useful: [Android Premium Games](https://androidpremium.games/), [fructosedb](https://fructosedb.org/)
 
 ### Please scroll down to the pinned repos for highlights
 
