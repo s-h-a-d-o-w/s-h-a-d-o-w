@@ -10,6 +10,7 @@ Some less important repos that are still useful - or at least might be (this may
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=next-simple-chatgpt)](https://github.com/s-h-a-d-o-w/next-simple-chatgpt)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=delete-unused-forks)](https://github.com/s-h-a-d-o-w/delete-unused-forks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=remark-merge-data)](https://github.com/s-h-a-d-o-w/remark-merge-data)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=mike-force)](https://github.com/s-h-a-d-o-w/mike-force)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=pubmed-contribution-stats)](https://github.com/s-h-a-d-o-w/pubmed-contribution-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=NotepadPlusPlus-Remixed-Theme)](https://github.com/s-h-a-d-o-w/NotepadPlusPlus-Remixed-Theme)
@@ -19,7 +20,6 @@ Some less important repos that are still useful - or at least might be (this may
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=cf-geo-steering-helper)](https://github.com/s-h-a-d-o-w/cf-geo-steering-helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=talon-eyetracking)](https://github.com/s-h-a-d-o-w/talon-eyetracking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=openapi-zod-client-experiment)](https://github.com/s-h-a-d-o-w/openapi-zod-client-experiment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s-h-a-d-o-w&description_lines_count=2&repo=napi-async-example)](https://github.com/s-h-a-d-o-w/napi-async-example)
 
 <!--
 **s-h-a-d-o-w/s-h-a-d-o-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
