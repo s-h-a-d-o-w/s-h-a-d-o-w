@@ -2,7 +2,7 @@ Hi, I'm Andy! 👋
 
 ### [My blog](https://aop.software/blog)
 
-... and some websites that I created a bunch of years ago that some people find useful: [Android Premium Games](https://androidpremium.games/), [fructosedb](https://fructosedb.org/)
+... and a site that I created a bunch of years ago that some people find useful: [Android Premium Games](https://androidpremium.games/)
 
 ### Please scroll down to the pinned repos for highlights
 
